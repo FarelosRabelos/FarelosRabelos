@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá! Eu Sousa Fabricio Paz 👋
 
-<!--
-**FarelosRabelos/FarelosRabelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como técnico de enfermagem. 🏥💉
+- 🌱 Sou estudande de Engenharia de software 🧑🏻‍💻
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: Vôlei, Bike, Corrida, Desenho, Artesanato
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/FarelosRabelos'>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FarelosRabelos&show_icons=true&theme=synthwave"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FarelosRabelos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarelosRabelos&layout=compact&langs_count=16&theme=synthwave"/">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+ 
+<div> 
+ <a href="https://discord.com/channels/1400537102348980354/1400537103061745719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fspaz98@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabricio-paz-1707b8348" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img height="100" align="right" alt=Farelos-Rabelos" src="https://cdn.discordapp.com/attachments/1400544130681143317/1400544236725600396/download20250704152140.png?ex=688d05f6&is=688bb476&hm=473853cec77e65d0e3e617766f1a5e22449e0965d7ce9e2c856ad5d4d0d17f9f&">
+  
+</div>
