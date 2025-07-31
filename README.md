@@ -6,9 +6,8 @@
 - ⚡ Fun fact: Vôlei, Bike, Corrida, Desenho, Artesanato
 
 <div>
-  <a href="https://github.com/FarelosRabelos'>
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=FarelosRabelos&show_icons=true&theme=synthwave"/>
-    <img height="145cm" src="https://github-readme-stats.vercel.app/api?username=FarelosRabelos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/FarelosRabelos">
+    <img height="145cm" src="https://github-readme-stats.vercel.app/api?username=FarelosRabelos&show_icons=true&theme=synthwave"/>
     <img height="145cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarelosRabelos&layout=compact&langs_count=16&theme=synthwave"/">
 </div>
 
