@@ -5,12 +5,6 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Vôlei, Bike, Corrida, Desenho, Artesanato
 
-<div>
-  <a href="https://github.com/FarelosRabelos">
-    <img height="145cm" src="https://github-readme-stats.vercel.app/api?username=FarelosRabelos&show_icons=true&theme=synthwave"/>
-    <img height="145cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarelosRabelos&hide_progress=true/"/>
-</div>
-
   ##
  
 <div> 
